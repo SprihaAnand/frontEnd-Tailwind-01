@@ -1,0 +1,99 @@
+/* navbar */
+
+.navbar {
+    height: 7rem;
+}
+
+.navbar_logo {
+    height: 40px;
+    padding: 5px;
+    display: inline;
+}
+
+.navbar_text {
+    padding: 10px;
+}
+
+.navbar_buttons {
+    padding: 10px;
+    margin: 5px;
+    ;
+}
+
+
+/* top section */
+
+.top_section {
+    background-color: #dadbf1;
+    font-size: 4.5rem;
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 8rem;
+}
+
+.search_bar {
+    padding: 20px;
+    width: 50rem;
+    font-size: 1.5rem;
+}
+
+
+/* grid section */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+
+.grid-item {
+    padding: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 1rem;
+}
+
+.grid_images {
+    height: 5rem;
+}
+
+.grid-item a {
+    color: blue;
+}
+
+.grid-item a:hover {
+    color: blue;
+    text-decoration: underline;
+    font-size: .7 rem;
+}
+
+
+/* footer */
+
+.grid-container_footer {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    background-color: black;
+}
+
+.grid-item_footer {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 1rem;
+    text-align: center;
+    border: black;
+    background-color: black;
+    color: white;
+}
+
+.grid-item_footer h3 {
+    font-weight: bolder;
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+}
+
+.footer_final {
+    padding-top: 15rem;
+}
