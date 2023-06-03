@@ -17,7 +17,7 @@ Overall, this frontend Tailwind project aims to deliver a cutting-edge user inte
 
 - Interactive Components: The project utilizes interactive components to create engaging user experiences. From buttons with hover effects to animated transitions, the UI elements are designed to respond to user interactions, providing visual feedback and enhancing interactivity.
 
- -Thoughtful Content Organization: The project focuses on thoughtful content organization, ensuring that information is presented in a logical and structured manner. By employing grids, cards, and sections, the UI effectively categorizes and presents content, making it easily digestible for users.
+ - Thoughtful Content Organization: The project focuses on thoughtful content organization, ensuring that information is presented in a logical and structured manner. By employing grids, cards, and sections, the UI effectively categorizes and presents content, making it easily digestible for users.
  
 - Visual Feedback and Feedback Validation: To provide a smooth user experience, the project incorporates visual feedback and feedback validation mechanisms. Users receive real-time feedback when interacting with forms, indicating successful submissions or highlighting errors that need attention. This helps users understand the status
 ## Screenshots
@@ -27,3 +27,7 @@ Overall, this frontend Tailwind project aims to deliver a cutting-edge user inte
 
 ## Demo
 [Screencast from 2023-06-03 20-00-36.webm](https://github.com/SprihaAnand/frontEnd-Tailwind-01/assets/97617046/b0069ba3-1923-42a8-b8d1-2fe18bba1cd3)
+## Author(s)
+Spriha Anand @SprihaAnand
+## Feedback
+Please write to sprihaanand@fmail.com
