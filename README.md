@@ -1,5 +1,5 @@
 # Abstract
-## About ABstract
+## About Abstract
 
 The frontend Tailwind project aims to create a modern and user-friendly user interface (UI) with a color scheme that aligns with contemporary design principles. The project embraces the versatility and efficiency of the Tailwind CSS framework to achieve a polished and professional look.
 
